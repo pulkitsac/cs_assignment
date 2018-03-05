@@ -7,3 +7,6 @@ void main(){
 	microkernel_sendmsg("is more portable");
 }
 
+void microkernel_getmsg(char *b){
+	//TODO:getmsg feature
+}
